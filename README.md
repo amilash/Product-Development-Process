@@ -1,2 +1,2 @@
 # Product-Management-Process
-Process Docs for Product Development Service Teams and consultancies.
+Process Docs for Product Development Service Delivery Teams and Consultancies.
