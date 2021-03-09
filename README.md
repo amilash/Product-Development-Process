@@ -1,2 +1,2 @@
-# Kunai-Product-Management-Process
-Process Docs for Kunai Product Team
+# Product-Management-Process
+Process Docs for Product Development Service Teams and consultancies.
