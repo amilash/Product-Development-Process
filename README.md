@@ -18,6 +18,10 @@ p.s. Yes, I am available to consult for your organization on process, organizati
 
 *This work comes from a combination of processes I wrote as Product Management Lead while working at [Monsoon](https://techcrunch.com/2015/07/08/capital-one-acquires-oakland-based-design-and-development-firm-monsoon/), [Kunai](https://www.kunaico.com/), and now for [Raft](https://goraft.tech/), as well as practices I've learned, developed, and taught over my careers worth of sucessful products and projects. Leadership from each company mentioned here and I discussed open sourcing the info, I just never had time to before now. I'd like to credit [Aaron Cooley](https://github.com/acooley) specifically for his contributions to some of the more technical pieces.*
 
+# Product Approach and Agile Ceremonies 
+[Why? An Aligned Approach to Product Development](https://github.com/amilash/Product-Development-Process/blob/master/aligned_approach.md) 
+[Agile Sprint Development Process](https://github.com/amilash/Product-Management-Process/blob/master/agile_sprint_development_process)
+
 # Product Development Phases and Steps
 
 ## Business Development Phase:
@@ -63,9 +67,6 @@ Biz Dev + Product
     - Access provisioning - request access to necessary accounts from client, create accounts for project as needed (AWS, GCP, cloud hosting, testing suites (Jenkins, cucumber)
     - Set up project repos, (github, gitlabs, etc...)
     - Set up Project Managmenet Tools and Repos (Atlassian - Jira/Confluence, Gitlabs, Github Wiki, Trello, Asana, Notion, etc...)
-
-## Agile Ceremonies and Project Approach
-[Agile Sprint Development Process](https://github.com/amilash/Product-Management-Process/blob/master/agile_sprint_development_process)
 
 ## Product Discovery Phase
 
