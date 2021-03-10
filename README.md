@@ -2,23 +2,26 @@
 How to Process Documentation for Product Development Service Delivery Teams and Consultancies. Written by a Product Managment Lead.
 
 ## Introduction: 
-I've been Leading Agile Product Development for Consultancy Firms and Service Delivery teams as a Product Management Lead for the past 15 years. Though the projects and industries I've delivered for are varied, one thing remains consistent - I keep re-writing the best practices 'run book' for how to approach Product Management and Delivery for Software projects, and training the teammembers. This is me open sourcing the info and making it available (in part so I don thave to write it again at every new company I work for ;) ). 
+I've been Leading Agile Product Development for Consultancy Firms and Service Delivery teams as a Product Management Lead for the past 15 years. Though the projects and industries I've delivered for are varied, one thing remains consistent, I repeatedly write the best practices 'run book' for how to deliver Software Product Development and Product/Project Managemet, and train team members. This is me open sourcing the info to make it available (in part so I don't have to write it again at every new company I work with ;) ). 
 
-This work is intended to be for Product Managers, Engineers, Business Development Teams, Product Management consultancies who are trying to figure out how to optimize thier process and approach.
+This work is intended to be for Product Managers, Engineers, Business Development Teams, Operations Teams, and Product Management Consultancies who are working to optimize thier process and approach and deliver best in class service and products. I acknowldedge that for different industries slightly different approaches are appropriate. This is inteded to be a base line approach for deliverying aligned products/solutions, keeping teams efficeint, customers happy, all in service of making better products with a user centered approach to Product Development. 
+
 
 Technology is a tool. Our job as Technologists is to apply those tools well and justly. When we solve the right problems for the right people, we can affect real change using technology as a tool for good. Doing Product Management and Delivery well allows for this.
 
-Feel free to contribute to the repo. I acknowldedge that for different industries slightly different approaches are appropriate. This is inteded to be a base line process and approach for deliverying aligned products/solutions, keeping teams efficeint, customers happy, all in service of making better products with a user centered approach to Product Development. 
+Feel free to contribute to the repo.
 
 Enjoy. 
 
 p.s. Yes, I am available to consult for your organization on process, organizational development, training Product Development Teams and Managers in AGILE, and on specific projects.
 
 
-This work comes from a combination of processes I wrote as a Product Management Lead while working at [Monsoon](https://techcrunch.com/2015/07/08/capital-one-acquires-oakland-based-design-and-development-firm-monsoon/), [Kunai](https://www.kunaico.com/), and now for [Raft](https://goraft.tech/), as well as practices I developed over my careers worth of sucessful products and projects. Leadership teams from each company and I discussed open sourcing the info, I just never had time to before now. I'd like to credit [Aaron Cooley](https://github.com/acooley) for his contributions to some of the more technical pieces.
+*This work comes from a combination of processes I wrote as Product Management Lead while working at [Monsoon](https://techcrunch.com/2015/07/08/capital-one-acquires-oakland-based-design-and-development-firm-monsoon/), [Kunai](https://www.kunaico.com/), and now for [Raft](https://goraft.tech/), as well as practices I've learned, developed, and taught over my careers worth of sucessful products and projects. Leadership from each company mentioned here and I discussed open sourcing the info, I just never had time to before now. I'd like to credit [Aaron Cooley](https://github.com/acooley) specifically for his contributions to some of the more technical pieces.*
+
+# Product Development Phases and Steps
 
 ## Business Development Phase:
-+ Client Account Discovery Meeting - (Biz Dev, Client, Dept Lead ?)
++ Client Account Discovery Meeting - (Biz Dev, Client, Dept Lead)
 + Discuss services, and expertise we offer.
 + Assess client needs and engagement possibilities or specific project needs over next 12 months
 + Define what we could do for them
