@@ -1,5 +1,5 @@
 # AGILE Sprint Development Process
-The development process for Agile/Scrum software to follow.  The following parts of Agile/Scrum are based on best practices and can be implemented by all teams, not jsut software development teams:
+The development process for Agile/Scrum software teams to follow.  The value here is on creating iterative work that delivers value quickly. The approach allows for pivoting quickly which is necessary in a business and technical landscape that is changing qucikly. It allows for product teams and business teams to not overinvest in inovation ideas, prove value quickly, rapidly prototype new ideas, and incrementally add value to exsisting products. The following parts of Agile/Scrum are based on best practices and can be implemented by all teams, not just software development teams:
 
 ## Sprint
 A sprint is a time boxed iteration of continuous development effort. Typically a sprint will be 1 or 2 weeks long. Within a sprint you need to have one of each of the following ceremonies:
@@ -12,7 +12,7 @@ A sprint is a time boxed iteration of continuous development effort. Typically a
 + Retrospective - >1 per 2 sprints.
 
 ## Standup Meetings
-Standup Meetings should be held on a daily basis for all teams.  Teams may hold stand-up by delivering status over Slack, e-mail, etc. in lieu of a conference call or in-person meeting at the team's discretion.  To keep the team aligned and unblocked, we will spend ~15min each morning as planned in the team charter, enabling each team member to report out yesterday's results, today's goals, and whether they need any help. If issues warrant further discussion, the scrum master will set the conversation to continue with an appropriate sub-set of team members at the end of the full team standup.
+Standup Meetings should be held on a daily basis for all teams.  Teams may hold stand-up by delivering status over Slack, e-mail, etc. in lieu of a conference call or in-person meeting at the team's discretion.  To keep the team aligned and unblocked, we will spend ~15min each morning as planned in the [team charter](https://github.com/amilash/Product-Management-Process/blob/master/team_charter.md), enabling each team member to report out yesterday's results, today's goals, and whether they need any help. If issues warrant further discussion, the scrum master will set the conversation to continue with an appropriate sub-set of team members at the end of the full team standup.
 The following format must be used for standup:
 
 A contributing member is any member whose name is assigned in a Jira ticket either in a sprint or in the backlog, or who is responsible for the creation of tickets.  Typically this will include engineers, QA, product owners, DevOps, etc.  Managers in attendance typically don't give status.  Project managers typically don't give status.
