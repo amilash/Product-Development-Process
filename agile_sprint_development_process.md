@@ -143,15 +143,15 @@ Every release must have a release page in confluence that contains or links to t
 #### Scan Findings
 Findings from the following tools which are used to scan the platform:
 
-+ <SonarQube>
-+ Unit test coverage reports unless reported as part of <SonarQube>
++ [SonarQube](https://www.sonarqube.org/)
++ Unit test coverage reports unless reported as part of [SonarQube](https://www.sonarqube.org/)
 + Snyk reports at the time the release was made
-+ If the product has a web based interface a scan should be made using <Zed Attack Proxy> or a similar tool and the findings should be included.
++ If the product has a web based interface a scan should be made using [Zed Attack Proxy](https://www.zaproxy.org/) or a similar tool and the findings should be included.
 
 #### Automated Test Findings
 Every release must include the following findings from the automated testing associated with the release:
 
-+ <Selenium> Test Results
++ [Selenium](https://www.selenium.dev/) Test Results
 + Current Load Test Results from Blazemeter
 + Any Ignored or otherwise failing unit tests
 
@@ -207,7 +207,7 @@ Cut release branch. Use standard GitFlow procedure to deploy this branch. All ch
 
 #### Release Approvals
 
-+ Set up Go / No-Go meeting with all parties - client, engineering lead, operations lead, product manager, product owner, and client InfoSec and compliance party as needed. In this meeting, go over the Confluence Release Notes. Each party should add a comment to the Confluence Release Notes stating “I approve” if they approve of the push to production.
++ Set up Go / No-Go meeting with all parties - Client, Engineering Lead, Operations Lead, Product Manager, Product Owner, and Client InfoSec or DevSecOps and Compliance party as needed. In this meeting, go over the Confluence Release Notes. Each party should add a comment to the Confluence Release Notes stating “I approve” if they approve of the push to production.
 
 #### Deployment and Validation
 
