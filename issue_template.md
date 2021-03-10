@@ -58,3 +58,6 @@ _Please include any questions or decisions that must be made before beginning wo
 
 - _Open Question 1_
 - _Open Question 2_
+
+
+from [Raft LLC's](https://goraft.tech/) issues template
