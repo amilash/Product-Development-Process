@@ -95,7 +95,65 @@ To foster **continuous learning and improvement**, and to **create more value ev
 
 ## Product Delivery Phase
 
+Agile Software Development Release Process
 
++ Sprint 1 * X:
+    - Product Backlog Grooming
+    - Engineering Sprint Planning
+    - Daily Standup
+    - Sprint Demo + Reporting - Per Sprint
+     - Working Code + Tests/Documentation
+     - Team Sprint Reporting
+     - Resource Leveling/Needs
++ Sprint Retrospective
++ Roadmap Planning
+    - Turn Prioritized Backlog into updated version plan
+    - Complete Product Roadmap template and share with the client
+    - Keep Updated every few sprints.
++ Monthly -  Invoicing
++ Quarterly - Check in with Business Team:
+    - Roadmap Planning
+    - SOW Extension/ Resource Leveling
 
 ## Project Closeout
 
+Owner: PM Project Lead / Biz Dev / Engineering Lead
+
+PM / Engineering Lead
+
+Deliverables:
+
++ Audit and handoff of Project Accounts - PM
++ Systems migration + or data handoff to client - PM
+    - Jira/Confluence exports
+    - GitHub repo access
+    - AWS hosting accounts? 
+    - etc...
++ Documentation
+    - Discovery and Product Deliverables
+    - Problem Statement/Product Vision
+    - User Personas
+    - Customer Journey
+    - User Stories
+    - Product Vision
+    - Customer Journey Maps
+    - Product Roadmap Versions
+    - MVP definition
+    - Data Architecture
+    - Technical Architecture
+    - Other Product Documentation
+    - Product or Technical How to Manuals
+    - Read Me file for codebase
+    - Test cases, or tests in code
+    - Confluence Product and technical documentation
+    - Jira Exports
+    - Security Review + Checklist
+    - Design Files Handoff
+     - PDF export from Invision
+     - Invision Project export, or retain access credentials?
+     - Zeplin access to client
+     - Sketch Design Source Files? (If this design team reserves 4-8 hours to prepare files for delivery)
++ End of Project Retrospective (internal + with client)
+    - Internal with Project Team
+    - With Client and Project Team
++ End of project client survey?
