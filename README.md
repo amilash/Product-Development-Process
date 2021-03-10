@@ -35,7 +35,7 @@ p.s. Yes, I am available to consult for your organization on process, organizati
 + Celebrate Launches and major milestones in person when possible
 
 ## Project Initiation Phase
-Sprint 0: 
+**Sprint 0:** 
 Biz Dev + Product
 + Project Kickoff Meeting
     - Client brief Team on project scope 
@@ -49,7 +49,7 @@ Biz Dev + Product
     - Brief Engineering + Designers on project details and confirm approach.
     - Set Team Charter - Shared team norms and operating procedures such as communication channels and expectations, meeting types and times, and tools and standards to be used are critical for forming high-functioning teams and delivering a successful project.
      - Discuss and agree on a common set of expectations and team norms to begin the project.
-     - The [team charter](https://github.com/cedar-challenge/Cedar-Remote-Design-Challenge/blob/master/guides/team-charter.md) is a **living document** that should be revisited at the start of each sprint and updated as lessons are learned or situations change.
+     - The [team charter](https://github.com/amilash/Product-Management-Process/blob/master/team_charter) is a living document that should be revisited at the start of each sprint and updated as lessons are learned or situations change.
 + Engineering Sprint Zero
 - Teams goal is to get repos up, create accounts for the project, get credentials for any client systems, etc..
     - CI/CD pipelines + DevSecOps accounts and tools (circle CI, Jenkins, GitLab, etc..)
@@ -57,7 +57,7 @@ Biz Dev + Product
     - Security tools (snyk, etc..)
     - Access provisioning - request access to necessary accounts from client, create accounts for project as needed (AWS, GCP, cloud hosting, testing suites (Jenkins, cucumber)
     - Set up project repos, (github, gitlabs, etc...)
-    - Set up Project Managmenet Tools and Repos (Attlassian - Jira/Confluence, Gitlabs, Github Wiki, Trello, Asana, Notion, etc...)
+    - Set up Project Managmenet Tools and Repos (Atlassian - Jira/Confluence, Gitlabs, Github Wiki, Trello, Asana, Notion, etc...)
 
 ## Agile Ceremonies and Project Approach
 To foster **continuous learning and improvement**, and to **create more value every day** for the organization and the users it serves, our team operated via frequent, open communication and rapid, multi-level loops of **hypothesis, delivery, measurement, and refinement**. The following describes the Agile ceremonies performed during a sprint.
@@ -76,42 +76,54 @@ To foster **continuous learning and improvement**, and to **create more value ev
 
 ## Product Discovery Phase
 
+Product and Design Discovery (using Human Centered Design approach)
 + Problem Statment/Product Vision Definition
 + Product Metric Asses + Analysis
 + Design Research Plan
 + User Personas
 + Customer Journey, Empathy Mapping
-+ Data Security Architecture
-+ User Flows Design
++ User Flows
 + User Interviews
 + Affinity Mapping
 + Lo Fidelity Wireframes
-+ Hi Fidelity Wireframes + Design  
++ Hi Fidelity Wireframes + Design
+
+Technical Discovery
++ Assess Platform requirements 
++ Technical Architecture
++ Define Technical Stack
++ Ci/CD pipeline and automated testing infrastructure
++ Data Schema and Entity Maps
++ State Diagram
+
+Product Roadmapping
 + User Stories, Epics 
 + Prioritizing User Stories
-+ Roadmap,
 + MVP, Version Planning
 + Project Plan, Milestones
++ Roadmap
 
 ## Product Delivery Phase
 
 Agile Software Development Release Process
 
-+ Sprint 1 * X:
-    - Product Backlog Grooming
-    - Engineering Sprint Planning
-    - Daily Standup
-    - Sprint Demo + Reporting - Per Sprint
+Sprint 1 * X:
++ Product Backlog Grooming
++ Engineering Sprint Planning
++ Daily Standup
++ Sprint Demo + Reporting - Per Sprint
      - Working Code + Tests/Documentation
      - Team Sprint Reporting
      - Resource Leveling/Needs
 + Sprint Retrospective
-+ Roadmap Planning
-    - Turn Prioritized Backlog into updated version plan
-    - Complete Product Roadmap template and share with the client
-    - Keep Updated every few sprints.
-+ Monthly -  Invoicing
-+ Quarterly - Check in with Business Team:
+Roadmap Planning
+    - Track milestones within and across sprints on your project wiki
+    - Keep prioritized backlog tickets tagged to release versions as your iterative version plan
+    - Product Roadmap should be accessible or reported to client consistently
+    - Update this every sprint via backlog grooming
+    - Communicate splicitly major changes
+Monthly -  Invoicing
+Quarterly - Check in with Business Team:
     - Roadmap Planning
     - SOW Extension/ Resource Leveling
 
