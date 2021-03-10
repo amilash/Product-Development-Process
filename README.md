@@ -15,6 +15,8 @@ Enjoy.
 p.s. Yes, I am available to consult for your organization on process, organizational development, training Product Development Teams and Managers in AGILE, and on specific projects.
 
 
+This work comes from a combination of processes I wrote as a Product Management Lead while working at [Monsoon](https://techcrunch.com/2015/07/08/capital-one-acquires-oakland-based-design-and-development-firm-monsoon/), [Kunai](https://www.kunaico.com/), and now for [Raft](https://goraft.tech/), as well as practices I developed over my careers worth of sucessful products and projects. Leadership teams from each company and I discussed open sourcing the info, I just never had time to before now. I'd like to credit [Aaron Cooley](https://github.com/acooley) for his contributions to some of the more technical pieces.
+
 ## Business Development Phase:
 + Client Account Discovery Meeting - (Biz Dev, Client, Dept Lead ?)
 + Discuss services, and expertise we offer.
@@ -25,7 +27,7 @@ p.s. Yes, I am available to consult for your organization on process, organizati
 + SOW Creation - Biz Dev Attempts to gather some of the information in this: Project SOW Proposal Plan Template
     - Project/Product Manager Lead is then responsible for getting input from a Design and Technical Lead and creating a high level estimate and project plan that operates in reality and could be reasonably delivere on with enough room/time to complete and deliver sucessfully.
     - This goes back to Biz Dev resource to put into a contract SOW along with pricing and team size and skills list.
-    - SOW draft is sent through Tarun/Operations to get MSA and SOw approved ingternally
+    - SOW draft is sent through Operations to get MSA and SOW approved ingternally
     - Sent to client for approval.
     - Confirm project kickoff date.
 + Internal Resourcing Meeting - Ops meeting to discuss how to staff the project, a Product Manager and Team is assigned.
