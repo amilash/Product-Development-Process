@@ -1,14 +1,14 @@
 # Team Members and Roles 
 
-- <firstname lastname> - Solution Manager
-- <firstname lastname> - Customer Engagement Manager
-- <firstname lastname> - Product Management Lead
-- <firstname lastname> - Design/UX Research Lead
-- <firstname lastname> - Visual Designer
-- <firstname lastname> - Technical Lead and Fullstack Engineer
-- <firstname lastname> - DevSecOps Engineer
-- <firstname lastname> - Fullstack Engineer
-- <firstname lastname> - Fullstack Engineer
+- [firstname lastname] - Solution Manager
+- [firstname lastname] - Customer Engagement Manager
+- [firstname lastname] - Product Management Lead
+- [firstname lastname] - Design/UX Research Lead
+- [firstname lastname] - Visual Designer
+- [firstname lastname] - Technical Lead and Fullstack Engineer
+- [firstname lastname] - DevSecOps Engineer
+- [firstname lastname] - Fullstack Engineer
+- [firstname lastname] - Fullstack Engineer
 
 
 # Team Communication and Tools
