@@ -27,6 +27,13 @@ Long form communication: Email
 
 Teleconferencing Meeting Collaboration: <Zoom, webex, google hangouts, etc.>
 
+# Team Commitments
+We the team will adhere to and work according to [Agile Sprint Product Developement Process](https://github.com/amilash/Product-Management-Process/blob/master/agile_sprint_development_process.md) and best practices. 
+We the team commit to giving it our best effort.
+We the team will work collaboratively as partners with eachother and the client(s) and any thier party teams.
+We the team will consistently ask the questions "What are we trying to accomplish?" "What problem are we solving".
+We the team will always keep the user in mind and advocate for thier needs as well the client/businesses, acknowldeging that sovling the right problem for the right people is what makes for sucessful products.
+
 # Team Values 
 
 (from [Raft LLC's](https://goraft.tech/) Team Values)
