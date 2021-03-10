@@ -47,7 +47,7 @@ Biz Dev + Product
     - Schedule time with Product Owners to develop/confirm use cases, gain approval on prioritization and stories, create MVP definition.
 + Internal Tech Kickoff:
     - Brief Engineering + Designers on project details and confirm approach.
-    - Set Team Charter - Shared team norms and operating procedures such as communication channels and expectations, meeting types and times, and tools and standards to be used are critical for forming high-functioning teams and delivering a successful project.
+    - Set [Team Charter](https://github.com/amilash/Product-Management-Process/blob/master/team_charter.mdv) - Shared team norms and operating procedures such as communication channels and expectations, meeting types and times, and tools and standards to be used are critical for forming high-functioning teams and delivering a successful project.
      - Discuss and agree on a common set of expectations and team norms to begin the project.
      - The [team charter](https://github.com/amilash/Product-Management-Process/blob/master/team_charter) is a living document that should be revisited at the start of each sprint and updated as lessons are learned or situations change.
 + Engineering Sprint Zero
