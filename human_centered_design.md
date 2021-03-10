@@ -1,4 +1,4 @@
-# Human Centered Design
+# Human Centered Design Exercises for Product and Design Discovery
 
 I am not an HCD expert, however I have incorporated HCD in product development practices thorugh Design Thinking excercises, workshops and the like for many years. Design that takes a Human Centered approach leverages best practices in mixing divergent and convergent thinking and collaborative practice wherein we empathize, define, ideate, prototype, test, implement, and retest. 
 Human Centered Design is a problem solving framework used for management and product design that centers on the building empathy and relating to the human perspective as primary, and the technological tools as supportive vehicles as supportive of and for accomplishing human goals. 
