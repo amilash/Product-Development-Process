@@ -23,7 +23,15 @@ p.s. Yes, I am available to consult for your organization on process, organizati
 
 [Agile Sprint Development Process](https://github.com/amilash/Product-Management-Process/blob/master/agile_sprint_development_process)
 
+
 # Product Development Phases and Steps
+[Business Development Phase](#Business-Development-Phase)
+
+[Product Discovery Phase](#Product-Discovery-Phase)
+
+[Product Delivery Phase](#Product-Delivery-Phase)
+
+[Project Closeout](#Project-Closeout)
 
 ## Business Development Phase:
 + Client Account Discovery Meeting - (Biz Dev, Client, Dept Lead)
