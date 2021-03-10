@@ -109,11 +109,10 @@ For each Persona identified:
     - Workplace: Where I work and what type of environment it is.
     - Age
     - Activities: What are the relevant things I do in my role that are related to the problem we are solving
-    - Pain points: What would I say are issues and pain caused by this problem. You can pull these form the PRoblem solving workshop most likely. You can also validate these and add to them based on user interviews and or surveys.
+    - Pain points: What would I say are issues and pain caused by this problem. You can pull these from the Problem Solving Definition most likely. You can also validate these and add to them based on user interviews and or surveys.
     - Delights: What are the good things that make my day easier or that I enjoy about my work.
 
-You now have your notional user Persona. This will help the Product Developkment team empathize and track descisiosn back to human users. These ideas should be validated by your Product Onwer/Client and validated through user interviews and or surveys.
-    - 
+You now have your notional user Persona. This will help the Product Developkment team empathize and track decisions back to human users. These ideas should be validated by your Product Onwer/Client and validated through user interviews and or surveys.
 
 
 
