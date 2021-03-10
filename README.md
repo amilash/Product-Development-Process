@@ -1,8 +1,8 @@
-# Product-Management-Process
-Process Docs for Product Development Service Delivery Teams and Consultancies.
+# Product Development (and Management) Process
+How to Process Documentation for Product Development Service Delivery Teams and Consultancies. Written by a Product Managmenet Lead.
 
 ## Introduction: 
-I've been Leading Agile Product Development for Consultancy Firms and Service Delivery teams for the past 15 years. Though the projects and industries I've delivered for are varied, one thing remains consistent - I keep re-writing the best practices 'run book' for how to approach Product Management and Delivery for Software projects, and training the teammembers. This is me open sourcing the info and making it available (in part so I don thave to write it again at every new company I work for ;) ). 
+I've been Leading Agile Product Development for Consultancy Firms and Service Delivery teams as a Product Management Lead for the past 15 years. Though the projects and industries I've delivered for are varied, one thing remains consistent - I keep re-writing the best practices 'run book' for how to approach Product Management and Delivery for Software projects, and training the teammembers. This is me open sourcing the info and making it available (in part so I don thave to write it again at every new company I work for ;) ). 
 
 This work is intended to be for Product Managers, Engineers, Business Development Teams, Product Management consultancies who are trying to figure out how to optimize thier process and approach.
 
