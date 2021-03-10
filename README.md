@@ -109,16 +109,19 @@ Sprint 1 * X:
      - Team Sprint Reporting
      - Resource Leveling/Needs
 + Sprint Retrospective
-Roadmap Planning
++ Roadmap Planning
     - Track milestones within and across sprints on your project wiki
     - Keep prioritized backlog tickets tagged to release versions as your iterative version plan
     - Product Roadmap should be accessible or reported to client consistently
     - Update this every sprint via backlog grooming
     - Communicate splicitly major changes
-Monthly -  Invoicing
-Quarterly - Check in with Business Team:
-    - Roadmap Planning
-    - SOW Extension/ Resource Leveling
+
+Monthly
++ Client Project Invoicing
+
+Quarterly - Check in with Client + Business Team:
++ PI (Program Increment) or Roadmap Planning
++ SOW Extension/ Resource Leveling
 
 ## Project Closeout
 
@@ -161,4 +164,4 @@ Deliverables:
 + End of Project Retrospective (internal + with client)
     - Internal with Project Team
     - With Client and Project Team
-+ End of project client survey?
++ End of project client survey
