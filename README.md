@@ -23,6 +23,8 @@ p.s. Yes, I am available to consult for your organization on process, organizati
 
 [Agile Sprint Development Process](https://github.com/amilash/Product-Management-Process/blob/master/agile_sprint_development_process)
 
+[Human Centered Design Exercises](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md)
+
 
 # Product Development Phases and Steps
 [Business Development Phase](#Business-Development-Phase)
@@ -80,10 +82,10 @@ Biz Dev + Product
 ## Product Discovery Phase
 
 Product and Design Discovery (using Human Centered Design approach)
-+ Problem Statment/Product Vision Definition
++ [Problem Statment/Product Vision Definition](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md)
 + Product Metric Asses + Analysis
 + Design Research Plan
-+ User Personas
++ [User Personas](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md)
 + Customer Journey, Empathy Mapping
 + User Flows
 + User Interviews
