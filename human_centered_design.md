@@ -1,10 +1,11 @@
 # Human Centered Design Exercises for Product and Design Discovery
 
-I am not an HCD expert, however I have incorporated HCD in product development practices thorugh Design Thinking excercises, workshops and the like for many years. Design that takes a Human Centered approach leverages best practices in mixing divergent and convergent thinking and collaborative practice wherein we empathize, define, ideate, prototype, test, implement, and retest. 
+I am not an HCD expert, however I have incorporated HCD in product development practices thorugh Design Thinking excercises, workshops and the like for many years. I have lead C level Corporate teams, Corporate Buisness and Product Owner Teams in Product Discovery excersizes, trainied both Product Mangagers, Designers, and Corporate Teams who want to adopt more user and human centered practices into thier process. 
+Design that takes a Human or User Centered approach leverages best practices in mixing divergent and convergent thinking and collaborative practice wherein we empathize, define, ideate, prototype, test, implement, and retest. This aligns implicitly with AGILE software development in that Products taht succeed are focused to align with Business Objectives and User needs ensuring alignement with solving the right problems for the right people and thereby deliverying value.
 Human Centered Design is a problem solving framework used for management and product design that centers on the building empathy and relating to the human perspective as primary, and the technological tools as supportive vehicles as supportive of and for accomplishing human goals. 
 Technology and software is a tool that is built for people. Remember, products that solve the right problems for the right people with iterative frameworks ameanble to adaptation and constant learning provide value and succeed.
 
-The following are excersizes that teams will perform during Product Discovery that use Human Centered Design principles.
+The following are a few standard excersizes that teams will perform during Product Discovery that use Human Centered Design principles. These can be scaled as needed per project and product developemtn context. At minimum I suggest you ensure you define the problem you are solving, the context in which its being solved techincally and socially (Product exsist by nature in a sociotenchical context), and the users you are designing for.
 
 + [Problem Statment Definition](#problem-statement-definition)
 + [User Personas](#user-personas)
