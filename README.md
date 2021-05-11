@@ -85,7 +85,7 @@ Biz Dev + Product
     - Set up project repos, (github, gitlabs, etc...)
     - Set up Project Managmenet Tools and Repos (Atlassian - Jira/Confluence, Gitlabs, Github Wiki, Trello, Asana, Notion, etc...)
 + Design 
-- Sync with Product Manager and prepare for Design Research and Disovery by creating an:
+ - Sync with Product Manager and prepare for Design Research and Disovery by creating an:
   - Discovery and Design Plan
 
 ## Product Discovery Phase
