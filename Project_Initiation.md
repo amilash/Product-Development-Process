@@ -104,6 +104,5 @@ Design teams goal is to sync with the Product Manager and create a collaborative
 - Hi fidelity Wireframes + Visual Design
 
 
-DISCOVERY PHASE...visit here for Product Discovery.
-Goal: Identify ...
+Next.... [PRODUCT DISCOVERY PHASE](https://github.com/amilash/Product-Development-Process/blob/master/README.md#Product-Discovery-Phase)
 (WIP)
