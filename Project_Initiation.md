@@ -1,11 +1,11 @@
 Please refer to the Kunai Project Customer Journey. It describes the project flow and the high level subjects and goals of those project phases that you as the Product and Project manager will be driving.
 
 # Project Initiation
-This is Phase one of PM responsibilities.
+This is Phase 1 of Product Management responsibilities. Inputs are needed by Team Area LEads and a handoff and information sharing from Biz Dev is critical.
 
 You have gotten an SOW and an NDA from Biz Dev by now and are working with Operations to resource a team and land on a start date and a date for a Project Kickoff call with the client.
 
-Ideally you have designers and engineers lined up for the kickoff.
+Ideally you have designers and engineers lined up for the official Project Kickoff.
 
 ## Kickoff Attendees: Client and their project Team + Consultancy's Product Manager, Business Development, Engineers, Designer.
 Client brief Project Team on project scope and needs. 
@@ -75,6 +75,7 @@ If you cant get this all done in one meeting, schedule a follow up kickoff with 
 
 ### Engineering
 The engineering teams goal should be to set up tools and infrastructure needed for the project so that on week 2 they can hit the ground running with writing code, once the Product and Design team have articulated user stories to start work on.
+- Technical Lead should sync with the Product Manager to inform them of cirital tehcnical neeeds and product specific questions that will need to be answered during technical discovery.
 - Github repos set up
 - Set up Ci/CD process (bitbucket? Cirlce Ci, etc..)
 - Get team access to the above
@@ -95,5 +96,3 @@ Design teams goal is to sync with the Product Manager and create a collaborative
 DISCOVERY PHASE...visit here for Product Discovery.
 Goal: Identify ...
 (WIP)
-
-Product Vision
