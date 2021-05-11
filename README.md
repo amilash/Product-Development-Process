@@ -21,7 +21,7 @@ p.s. Yes, I am available to consult for your organization on process, organizati
 # Product Approach and Agile Ceremonies 
 [Why? An Aligned Approach to Product Development](https://github.com/amilash/Product-Development-Process/blob/master/aligned_approach.md)
 
-[Agile Sprint Development Process](https://github.com/amilash/Product-Management-Process/blob/master/agile_sprint_development_process)
+[Agile Sprint Development Process](https://github.com/amilash/Product-Management-Process/blob/master/agile_sprint_development_process.md)
 
 [Human Centered Design Exercises](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md)
 
