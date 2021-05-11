@@ -29,6 +29,8 @@ p.s. Yes, I am available to consult for your organization on process, organizati
 # Product Development Phases and Steps
 [Business Development Phase](#Business-Development-Phase)
 
+[Project Initiation Phase](#Project-Initiation-Phase)
+
 [Product Discovery Phase](#Product-Discovery-Phase)
 
 [Product Delivery Phase](#Product-Delivery-Phase)
@@ -55,6 +57,10 @@ p.s. Yes, I am available to consult for your organization on process, organizati
 + Celebrate Launches and major milestones in person when possible
 
 ## Project Initiation Phase
+[Project Initiation Details](https://github.com/amilash/Product-Development-Process/blob/master/Project_Initiation.md)
+
+**Goal:** Set up the project infrastructure. Align team on knowns. Align on neede unkowns. Plan a sucessful discovery approach.
+
 **Sprint 0:** 
 Biz Dev + Product
 + Project Kickoff Meeting
@@ -78,6 +84,9 @@ Biz Dev + Product
     - Access provisioning - request access to necessary accounts from client, create accounts for project as needed (AWS, GCP, cloud hosting, testing suites (Jenkins, cucumber)
     - Set up project repos, (github, gitlabs, etc...)
     - Set up Project Managmenet Tools and Repos (Atlassian - Jira/Confluence, Gitlabs, Github Wiki, Trello, Asana, Notion, etc...)
++ Design 
+- Sync with Product Manager and prepare for Design Research and Disovery by creating an:
+  - Discovery and Design Plan
 
 ## Product Discovery Phase
 
@@ -151,24 +160,33 @@ Deliverables:
     - etc...
 + Documentation
     - Discovery and Product Deliverables
-    - Problem Statement/Product Vision
-    - User Personas
-    - Customer Journey
-    - User Stories
-    - Product Vision
-    - Customer Journey Maps
-    - Product Roadmap Versions
-    - MVP definition
-    - Data Architecture
-    - Technical Architecture
-    - Other Product Documentation
-    - Product or Technical How to Manuals
-    - Read Me file for codebase
-    - Test cases, or tests in code
-    - Confluence Product and technical documentation
-    - Jira Exports
-    - Security Review + Checklist
+     - Problem Statement/Product Vision
+     - User Personas
+     - Customer Journey
+     - User Stories
+     - Product Vision
+     - Customer Journey Maps
+     - User Flows
+     - Lo-Fi Wirerrames
+     - Hi-Fi Wireframes
+     - User Interviews/Surveys
+     - Product Roadmap Versions
+     - MVP definition
+    - Technical Documentation
+     - Technical Discovery Docs
+     - Data Architecture
+     - Technical Architecture
+     - Other Product Documentation
+     - Product or Technical How to Manuals
+     - Read Me file for codebase
+     - Test cases, or tests in code
+     - Confluence Product and technical documentation
+     - Jira Exports
+     - Security Review + Checklist
     - Design Files Handoff
+     - Lo-Fi Wirefreames
+     - Hi-Fi Wireframes
+     - Other UX REsearch outputs, User Interviews, User Flows, etc..
      - PDF export from Invision
      - Invision Project export, or retain access credentials?
      - Zeplin access to client
