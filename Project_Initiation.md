@@ -1,7 +1,9 @@
 Please refer to the Kunai Project Customer Journey. It describes the project flow and the high level subjects and goals of those project phases that you as the Product and Project manager will be driving.
 
 # Project Initiation
-This is Phase 1 of Product Management responsibilities. Inputs are needed by Team Area LEads and a handoff and information sharing from Biz Dev is critical.
+This is Phase 1 of Product Management responsibilities. Inputs are needed by Team Area Leads and a handoff and information sharing from Biz Dev is critical.
+
+Goal: Set up the project infrastructure. Align team on knowns. Align on neede unkowns. Plan a sucessful discovery approach.
 
 You have gotten an SOW and an NDA from Biz Dev by now and are working with Operations to resource a team and land on a start date and a date for a Project Kickoff call with the client.
 
