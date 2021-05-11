@@ -1,4 +1,4 @@
-Please refer to the Kunai Project Customer Journey. It describes the project flow and the high level subjects and goals of those project phases that you as the Product and Project manager will be driving.
+Tip: Create a Customer Jourey for your organization. It describes the project flow and the high level subjects and goals of those project phases that you as the Product and Project manager will be driving. This is based on refinements and iterations of the processes and Jorney maps used for several sucessful Product Development Consusltancies.
 
 # Project Initiation
 This is Phase 1 of Product Management responsibilities. Inputs are needed by Team Area Leads and a handoff and information sharing from Biz Dev is critical.
