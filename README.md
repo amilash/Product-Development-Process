@@ -77,7 +77,7 @@ Biz Dev + Product
      - Discuss and agree on a common set of expectations and team norms to begin the project.
      - The [team charter](https://github.com/amilash/Product-Management-Process/blob/master/team_charter) is a living document that should be revisited at the start of each sprint and updated as lessons are learned or situations change.
 + Engineering Sprint Zero
-- Teams goal is to get repos up, create accounts for the project, get credentials for any client systems, etc..
+Teams goal is to get repos up, create accounts for the project, get credentials for any client systems, etc..
     - CI/CD pipelines + DevSecOps accounts and tools (circle CI, Jenkins, GitLab, etc..)
     - Testing suites and tools
     - Security tools (snyk, etc..)
@@ -85,10 +85,12 @@ Biz Dev + Product
     - Set up project repos, (github, gitlabs, etc...)
     - Set up Project Managmenet Tools and Repos (Atlassian - Jira/Confluence, Gitlabs, Github Wiki, Trello, Asana, Notion, etc...)
 + Design 
- - Sync with Product Manager and prepare for Design Research and Disovery by creating an:
-  - Discovery and Design Plan
+    - Sync with Product Manager and prepare for Design Research and Disovery by creating an:
+    - Discovery and Design Plan
 
 ## Product Discovery Phase
+
+**Goal** Goal is to understand the problem, who the users we're solving it for and providng value to are, and what contexts in which we are creating a solution. Current vs aspirational. This is where we start making the product, and ensuring we are solving the right problem for the right users. From there we will come out with User stories and an MVP definition that developers/engineers can start building with.
 
 Product and Design Discovery (using Human Centered Design approach)
 + [Problem Statment/Product Vision Definition](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md)
