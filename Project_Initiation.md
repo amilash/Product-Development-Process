@@ -77,10 +77,19 @@ If you cant get this all done in one meeting, schedule a follow up kickoff with 
 
 ### Engineering
 The engineering teams goal should be to set up tools and infrastructure needed for the project so that on week 2 they can hit the ground running with writing code, once the Product and Design team have articulated user stories to start work on.
-- Technical Lead should sync with the Product Manager to inform them of cirital tehcnical neeeds and product specific questions that will need to be answered during technical discovery.
+- Technical Lead should sync with the Product Manager to inform them of cirital tehcnical neeeds and product specific questions that will need to be answered during technical discovery and define a
+- Technical Discovery Plan
 - Github repos set up
 - Set up Ci/CD process (bitbucket? Cirlce Ci, etc..)
 - Get team access to the above
+
+Other things Engineers and Engineering Leads can do in Sprint Zero
+- Brush up on [Agile Project Delviery Best Practices](https://github.com/amilash/Product-Management-Process/blob/master/agile_sprint_development_process.md)
+- Request access for you and your team to Client repo's and systems
+- Think about what you will need to know
+- Brush up on your engineering skills for the specific technical stack you think your project might be useing. 
+- Install things locally and prepare your workstation
+- Get into the mindset of building features that are demoable and have demoable value to your Product Manger/Owener and eventual users. this will help them get and give you validation product acceptance and iterate on product needs and stary ahead of your questions and write great acceptance criteria for and with you on user stories. :) 
 
 ### Design
 Design teams goal is to sync with the Product Manager and create a collaborative discovery process that will work towards developing user stories the Product  Manager can write and prioritize. These excersizes should include Human Centered Design approaches to creating a user oriented product that is in alignment with business and user goals. Decide who will run the discovery sessions, and what goals and deliverables and outcomes are expected from each based on the project and product particulars. Then the design lead should create and prep templates for the discovery excersizes and share and review them with the Product Manager. The design and UX Research Plan should include/provide the following activities/inputs.
