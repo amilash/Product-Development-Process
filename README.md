@@ -39,7 +39,7 @@ p.s. Yes, I am available to consult for your organization on process, organizati
 
 ## Business Development Phase:
 
-**Goal** Understand the value that the Consulting/Product Devlopment Team can help with and the context that exsists in, the "Why", and define and approve an SOW and Project Scope and Budget that for a Project Team to develop a Product within.
+**Goal:** To understand the value that the Consulting/Product Devlopment Team can help with and the context that exsists in, the "Why", to define and approve an SOW and Project Scope and Budget that for a Project Team to thereby develop a Product with.
 
 + Client Account Discovery Meeting - (Biz Dev, Client, Dept Lead)
 + Discuss services, and expertise Project Team can offer.
@@ -47,7 +47,7 @@ p.s. Yes, I am available to consult for your organization on process, organizati
 + Define what we could do for them
 + Project RFP Call - Project/Product Goals, Deliverables, Milestones, features, requirements - (Biz Dev, PM Lead, Design Lead, Client)
 + Technical Call - Details, environments, technical reqs/limitations, → Estimation. (PM, Tech Lead)
-+ SOW Creation - Biz Dev Attempts to gather some of the information in this: Project SOW Proposal Plan Template. Including the PM and Tech Lead here is critial to ensuring that your contact operates in reality and sets your team up for success in delivery.
++ SOW Creation - Biz Dev attempts to gather some of the information to fill out a Project SOW Proposal Plan Template. Including the PM and Tech Lead here to provide line items needed and estimates is critial to ensuring that your project contact operates in reality and sets your team up for success in delivery.
     - Project/Product Manager Lead is then responsible for getting input from a Design and Technical Lead and creating a high level estimate and project plan that operates in reality and could be reasonably delivere on with enough room/time to complete and deliver sucessfully.
     - This goes back to Biz Dev resource to put into a contract SOW along with pricing and team size and skills list.
     - SOW draft is sent through Operations to get MSA and SOW approved ingternally
@@ -95,7 +95,7 @@ Teams goal is to get repos up, create accounts for the project, get credentials 
 
 **Goal** Goal is to understand/define the project problem and scope, who the users we're solving it for and providng value to are, and what contexts in which we are creating a solution. Current vs aspirational. This is where we start making the product, and ensuring we are solving the right problem for the right users. From there we will come out with User stories and an MVP definition that developers/engineers can start building with.
 
-Product and Design Discovery (using Human Centered Design approach)
+Product and Design Discovery ([Using Human Centered Design approach](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md))
 + [Problem Statment/Product Vision Definition](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md)
 + Product Metric Asses + Analysis
 + Design Research Plan
