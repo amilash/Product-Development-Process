@@ -10,7 +10,8 @@ The following are a few standard excersizes that teams will perform during Produ
 + [Problem Statment Definition](#problem-statement-definition)
 + [User Personas](#user-personas)
 + [User Flows](#user-flows)
-+ [Customer Journey](#Customer-journey-mapping)
++ [Customer Journey](#customer-journey-mapping)
++ [User Interviews](#user-interviews)
 + [Affinity Mapping](#affinity-mapping)
 + [Lo-Fidelity Wireframing](#wireframing)
 + [Hi-Fidelity Wireframing](#wireframing)
@@ -126,6 +127,24 @@ We must understand the current user flow to then map out the journey and find us
 Mapping the user journey starts with the existing user journey and moves to an optimal journey map informed by discussions with potential users matching our main user personas. Here we empathize with the user and can identify solution opportunities and touchpoints that our product or service can do to enhance the user experience and solve for the problem our Product or service is targeting.
 
 Here a links to a few solid example templates: <>
+
+# User Interviews
+User interviews are a poiwerful way to create and validate your current and target User Flows and Customer Journey Maps. 
+
+### Individual User Interviews
+Individual user interviews should be time boxed, and conducted with a prepared set of questions. Best Practices include questions that are non-leading, and are both yes no, qualitative and quantitative. Users should be made to feel comfortable and appreciated for thier time, as it is often given for free on a volunteer basis. It can also be a great opportunity to generate support for your project. Users who feel listened to and are having thier pain points heard are often excited to see the results of that input generated as a helpful and concrete solution. Ask your interviewees if you can follow up with them to gain validation when th designs or product pilot is ready for validation.
+
+### User Surveys
+This is another effective way to cast a wide net and gather lots of valuable intformation for your product discovery and evleopment. Survyes can be used to assess interest in a product, gather information on the value of certain features by asking rank and priority type of quesitons, and for understanding user pain points and gather examples of real life use cases for which you hope to solve and aid with the product/solution you are developing. Best practices are to set a clear goal for what you are trying to understand, designing good questions that get to the heart of the information you are desiring to learn, and recruiting the right participants for the survey so you are getting useful and relevant answers.
+See Affinity mapping for a usefull approach to synthesising lots of qualitative information. 
+
+Here are some links to more information on user interivews. There are many great resources out there:
+Shopify Blog on [How to Conduct a User Interview](https://www.shopify.com/partners/blog/user-interview)
+UX Collective's [How to conduct user interviews](https://uxdesign.cc/how-to-conduct-user-interviews-fe4b8c34b0b7)
+Sarah Doody's [Starter Questions for User Research](https://projects.iq.harvard.edu/files/harvarduxgroup/files/ux-research-guide-sample-questions-for-user-interviews.pdf)
+Mind the Product's [Articles on User interviews](https://www.mindtheproduct.com/tag/user-interviews/)
+Mind the Product's [Training Course on User Interviews](https://levelup.mindtheproduct.com/courses/user-interviews?_ga=2.106254150.410216943.1620797887-1447960353.1620797887&_gl=1*1680uf5*_ga*MTQ0Nzk2MDM1My4xNjIwNzk3ODg3*_ga_811QJBMDW0*MTYyMDc5Nzg4Ny4xLjEuMTYyMDc5NzkwMy40NA..)
+
 
 # Affinity Mapping
 Affinity mapping is a process that allows teams to sythesise lots of qualitative research quickly. It informs our user stories and product development approach and helps us prioritize features. It is an approach to synthesizing large quantities of qualitative data into logical themes. This approach supports the synthesis of brainstorming, and user interview surveys, and other pieces of qualitative data.
