@@ -13,7 +13,7 @@ Feel free to contribute to the repo.
 
 Enjoy. 
 
-p.s. Yes, I am available to consult for your organization on process, organizational development, training Product Development Teams and Managers in AGILE, and on specific projects.
+p.s. Yes, I am available to consult for your organization on process, organizational development, training Product Development Teams and Managers in AGILE, and for specific projects and product delivery.
 
 
 *This work comes from a combination of processes I wrote as Product Management Lead while working at [Monsoon](https://techcrunch.com/2015/07/08/capital-one-acquires-oakland-based-design-and-development-firm-monsoon/), [Kunai](https://www.kunaico.com/), and now for [Raft](https://goraft.tech/), as well as practices I've learned, developed, and taught over my careers worth of sucessful products and projects. Leadership from each company mentioned here and I discussed open sourcing the info, I just never had time to before now. I'd like to credit [Aaron Cooley](https://github.com/acooley) specifically for his contributions to some of the more technical pieces.*
