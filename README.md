@@ -100,12 +100,12 @@ Product and Design Discovery ([Using Human Centered Design approach](https://git
 + Product Metric Asses + Analysis
 + Design Research Plan
 + [User Personas](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md)
-+ Customer Journey, Empathy Mapping
-+ User Flows
-+ User Interviews
-+ Affinity Mapping
-+ Lo Fidelity Wireframes
-+ Hi Fidelity Wireframes + Design
++ [Customer Journey, Empathy Mapping](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md#Customer-journey-mapping)
++ [User Flows](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md#user-flows)
++ [User Interviews](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md#user-interviews)
++ [Affinity Mapping](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md#affinity-mapping)
++ [Lo Fidelity Wireframes](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md#wireframing)
++ [Hi Fidelity Wireframes + Design](https://github.com/amilash/Product-Development-Process/blob/master/human_centered_design.md#wireframing)
 
 Technical Discovery
 + Assess Platform requirements 
